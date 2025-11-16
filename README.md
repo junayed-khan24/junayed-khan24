@@ -1,6 +1,6 @@
 <!-- Gradient Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋+I'm+Junayed+Khan;Frontend+Developer+from+Bangladesh;React+%7C+Tailwind+%7C+JavaScript+Enthusiast" />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png" />
 </h1>
 
 ---
