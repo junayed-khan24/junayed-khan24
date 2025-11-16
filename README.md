@@ -1,17 +1,76 @@
-<h1 align="center">Hi 👋, I'm Junayed Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- Gradient Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋+I'm+Junayed+Khan;Frontend+Developer+from+Bangladesh;React+%7C+Tailwind+%7C+JavaScript+Enthusiast" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junayed-khan24&label=Profile%20views&color=0e75b6&style=flat" alt="junayed-khan24" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junayed-khan24" alt="junayed-khan24" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junayed-khan24&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayed-khan24&show_icons=true&locale=en&layout=compact" alt="junayed-khan24" /></p>
+## 🌈 About Me  
+💡 Passionate **Frontend Developer** focused on clean UI & smooth user experience.  
+🚀 Currently exploring **React, MERN Stack, and modern JS tools.**  
+🎯 Goal: Become a **Full Stack Developer** and build meaningful projects.  
+⚡ Fun fact: I love transforming simple ideas into beautiful UI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junayed-khan24&show_icons=true&locale=en" alt="junayed-khan24" /></p>
+---
+
+## 🌍 Connect With Me
+<p align="left">
+  <a href="https://facebook.com/" target="_blank"><img height="35" src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://linkedin.com/" target="_blank"><img height="35" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:yourmail@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 🚀 Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vite,figma,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junayed-khan24&margin-w=15&theme=dracula" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=junayed-khan24&show_icons=true&theme=react" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-khan24&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayed-khan24&theme=react" />
+</p>
+
+---
+
+## 🎉 Fun Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/gifs/hi.gif" width="200"/>
+</p>
+
+---
+
+## ✨ Quote of the Day  
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+</p>
+
+---
+
+<h3 align="center">💙 Thanks for visiting my profile 💙</h3>
+
