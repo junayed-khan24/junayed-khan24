@@ -36,13 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=junayed-khan24&margin-w=15&theme=dracula" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=junayed-khan24&show_icons=true&theme=react" />
