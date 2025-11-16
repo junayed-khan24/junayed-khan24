@@ -1,6 +1,6 @@
 <!-- Modern Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/pw8qQ2P/gradient-banner.gif" width="100%" />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4e0d816kuzyu700pdbjn.png" width="100%" />
 </div>
 
 <h1 align="center">🌟 Hi There, I'm <span style="color:#4db5ff">Junayed Khan</span> 👨‍💻</h1>
