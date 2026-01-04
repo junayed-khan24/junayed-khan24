@@ -48,20 +48,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,mongodb,git,github,ts,figma,vscode,firebase&theme=light" />
 </p>
 
----
 
-## ⚡ My GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junayed-khan24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-khan24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayed-khan24&theme=neon-palenight&hide_border=true&border_radius=12" />
-</p>
 
 ---
 
