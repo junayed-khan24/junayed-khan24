@@ -30,17 +30,6 @@ For me, development is where **creativity meets logic** — turning ideas into r
 
 ---
 
-### 🛠 Tech Stack & Tools  
-- ⚛️ **React.js** – Component-based, scalable UI  
-- 🎨 **Tailwind CSS** – Clean, responsive & modern styling  
-- 🌐 **MERN Stack** – MongoDB, Express, React, Node  
-- 🧠 **JavaScript (ES6+)** – Writing clean & efficient logic  
-- 🔐 **Firebase / Auth** – Authentication & user management  
-
----
-
----
-
 ## 🌍 Connect With Me  
 <p align="center">
   <a href="https://www.facebook.com/md.junayed.khan.162210" target="_blank">
