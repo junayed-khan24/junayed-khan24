@@ -21,22 +21,35 @@
 ---
 
 ## 🎨 About Me  
-✨ I create **beautiful UI** with smooth animations  
-🛠 Currently working with **React, Tailwind & MERN Stack**  
-🚀 Love turning ideas into real-world web applications  
-💬 Ask me about **Frontend, UI/UX, JavaScript**
+
+Hi 👋 I’m a **Frontend-focused Web Developer** who loves building modern, beautiful, and user-friendly web interfaces.  
+I believe a great website is not just about looks — it’s about **experience, performance, and interaction**.
+
+I enjoy creating **clean UI with smooth animations**, thoughtful layouts, and responsive designs that feel natural to users.  
+For me, development is where **creativity meets logic** — turning ideas into real, usable, and scalable web applications.
+
+---
+
+### 🛠 Tech Stack & Tools  
+- ⚛️ **React.js** – Component-based, scalable UI  
+- 🎨 **Tailwind CSS** – Clean, responsive & modern styling  
+- 🌐 **MERN Stack** – MongoDB, Express, React, Node  
+- 🧠 **JavaScript (ES6+)** – Writing clean & efficient logic  
+- 🔐 **Firebase / Auth** – Authentication & user management  
+
+---
 
 ---
 
 ## 🌍 Connect With Me  
 <p align="center">
-  <a href="https://facebook.com" target="_blank">
+  <a href="https://www.facebook.com/md.junayed.khan.162210" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/md-junayed-khan-7975692a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:junayedtokhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
